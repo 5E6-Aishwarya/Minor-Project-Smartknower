@@ -1,1 +1,1 @@
-# Minor-Project-Smartknower
+# Minor Project
